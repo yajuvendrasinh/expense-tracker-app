@@ -1,0 +1,32 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Firebase
+google-services.json
+
+# Secrets
+/secrets.xml
+signing.properties
+*.jks
+/release/
+
+# Project-specific
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf
+.idea/dictionaries
+.idea/libraries/
+.idea/caches/
