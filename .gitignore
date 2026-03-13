@@ -14,15 +14,6 @@
 .cxx
 local.properties
 
-# Firebase
-google-services.json
-
-# Secrets
-/secrets.xml
-signing.properties
-*.jks
-/release/
-
 # Project-specific
 .idea/workspace.xml
 .idea/tasks.xml
